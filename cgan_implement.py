@@ -16,7 +16,7 @@ import time
 # %%
 
 
-# %%
+# %% load attributes
 y_real=np.load('attributes5.npy')
 
 print(y_real.shape)
